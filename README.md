@@ -1,4 +1,4 @@
-# Global Degrees CRM Platform
+# Global Degrees CRM Platform- Summer Internship Project 1
 
 A full-stack CRM and student management platform built to streamline international education consulting workflows. The system enables counselors and administrators to manage student applications, monitor conversions, analyze performance metrics, and generate actionable insights through a centralized dashboard.
 
