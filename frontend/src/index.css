@@ -1,0 +1,219 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+
+  --bg-void: #f3f6fb;
+  --bg-base: #ffffff;
+  --bg-surface: #ffffff;
+  --bg-elevated: #f8fafc;
+  --bg-overlay: #eef2f7;
+  --bg-hover: #e2e8f0;
+
+  --accent-cyan: #2563eb;
+  --accent-cyan-dim: #1d4ed8;
+  --accent-cyan-glow: rgba(37,99,235,0.08);
+
+  --accent-emerald: #16a34a;
+  --accent-amber: #d97706;
+  --accent-rose: #dc2626;
+  --accent-violet: #7c3aed;
+  --accent-blue: #2563eb;
+
+  --text-primary: #0f172a;
+  --text-secondary: #1e293b;
+  --text-muted: #475569;
+  --text-accent: #2563eb;
+
+  --border-subtle: #dbe3ed;
+  --border-default: #cbd5e1;
+  --border-strong: #94a3b8;
+  --border-accent: rgba(37,99,235,0.25);
+
+  --sidebar-width: 300px;
+  --sidebar-collapsed: 72px;
+  --navbar-height: 72px;
+
+  --shadow-card: 0 4px 14px rgba(15,23,42,0.06);
+  --shadow-glow: 0 8px 24px rgba(37,99,235,0.08);
+  --shadow-elevated: 0 12px 32px rgba(15,23,42,0.08);
+
+  --font-display: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'Inter', sans-serif;
+
+  --logo-size: 56px;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: 'Inter', sans-serif;
+  background: #f3f6fb;
+  color: #0f172a;
+  font-size: 15px;
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #f3f6fb;
+}
+
+#root {
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #edf2f7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Inter', sans-serif;
+  color: #0f172a;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  color: var(--text-secondary);
+}
+
+::selection {
+  background: rgba(37,99,235,0.15);
+  color: #2563eb;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn .35s ease forwards;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid var(--border-subtle);
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: var(--shadow-card);
+  transition: all .25s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--border-default);
+  box-shadow: var(--shadow-elevated);
+}
+
+.card h1,
+.card h2,
+.card h3,
+.card h4 {
+  color: var(--text-primary);
+}
+
+.text-mono {
+  font-family: 'Inter', sans-serif;
+}
+
+.text-display {
+  font-family: 'Inter', sans-serif;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+*:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+.recharts-default-tooltip {
+  background: #ffffff !important;
+  border: 1px solid #dbe3ed !important;
+  border-radius: 10px !important;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08) !important;
+}
+
+button {
+  font-family: 'Inter', sans-serif;
+}
+
+input,
+select,
+textarea {
+  font-family: 'Inter', sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+td {
+  color: var(--text-secondary);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

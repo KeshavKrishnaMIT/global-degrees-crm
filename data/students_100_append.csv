@@ -1,0 +1,101 @@
+student_id,name,gender,age,city,state,degree,stream,cgpa,ielts_score,preferred_country,preferred_course,budget,scholarship_required,lead_source,current_stage,assigned_counselor,created_date,last_activity_date,status,enrollment_probability,dropout_risk,lead_score,recommended_country,recommended_scholarship
+ST6000,Aditi Verma 0,Male,22,Pune,Maharashtra,BTech,Commerce,6.23,7.1,Canada,Data Science,3772050,Yes,Referral,Counseling,Priya Sharma,2025-08-05,2025-11-20,Active,86,Low,69,Germany,None
+ST6001,Karan Malhotra 1,Female,28,Chennai,Maharashtra,BBA,Engineering,9.43,8.0,Australia,Data Science,2746612,Yes,Website,Counseling,Rahul Singh,2025-03-30,2025-07-23,Dropped,92,Medium,58,USA,Merit Scholarship
+ST6002,Dev Patel 2,Female,20,Mumbai,Karnataka,BE,Commerce,9.17,6.9,Australia,Business Analytics,3321548,No,Website,Application,Rohit Gupta,2026-02-07,2026-04-07,Converted,58,Low,86,Canada,Merit Scholarship
+ST6003,Riya Kapoor 3,Male,22,Delhi,Tamil Nadu,BE,Science,9.36,8.2,Germany,Computer Science,2594893,Yes,Website,Documentation,Rahul Singh,2025-07-28,2025-08-19,Active,53,Low,59,UK,Need Based
+ST6004,Arjun Mehta 4,Male,30,Delhi,Telangana,BE,Commerce,9.35,7.4,Australia,Data Science,2052600,No,Website,Counseling,Sneha Jain,2025-08-29,2025-12-21,Converted,57,Low,89,Canada,None
+ST6005,Arjun Mehta 5,Male,23,Delhi,Delhi,BTech,Science,7.79,6.7,Germany,Computer Science,3354537,Yes,Seminar,Visa,Priya Sharma,2025-12-23,2026-01-18,Active,97,Low,62,USA,None
+ST6006,Ishita Gupta 6,Female,24,Delhi,Tamil Nadu,BE,Engineering,6.83,7.6,Germany,Cyber Security,3595896,Yes,Seminar,Visa,Sneha Jain,2025-05-23,2025-07-24,Active,78,Low,71,Australia,Merit Scholarship
+ST6007,Yash Jain 7,Female,29,Hyderabad,Maharashtra,BCom,Commerce,7.97,6.7,Canada,MBA,2448329,No,Referral,Documentation,Amit Verma,2025-06-25,2025-09-19,Active,59,Low,64,Canada,Need Based
+ST6008,Aditi Verma 8,Male,22,Delhi,Delhi,BTech,Engineering,6.48,5.7,USA,Data Science,3821338,No,Website,Counseling,Rohit Gupta,2025-09-05,2025-11-12,Dropped,72,Low,76,USA,Merit Scholarship
+ST6009,Aditi Verma 9,Male,25,Mumbai,Maharashtra,BE,Engineering,7.28,8.5,USA,Artificial Intelligence,2116799,Yes,WhatsApp,Enrolled,Rahul Singh,2025-02-06,2025-03-13,Converted,52,Low,89,Germany,Need Based
+ST6010,Riya Kapoor 10,Male,27,Delhi,Maharashtra,BCom,Science,8.49,6.6,UK,MBA,2932906,No,WhatsApp,Enrolled,Rohit Gupta,2026-02-03,2026-04-22,Active,65,Medium,71,Australia,Need Based
+ST6011,Ananya Rao 11,Male,27,Chennai,Delhi,BBA,Science,8.74,7.3,UK,Data Science,3895009,No,Referral,Documentation,Priya Sharma,2025-10-09,2025-11-07,Dropped,59,Low,84,UK,Merit Scholarship
+ST6012,Meera Nair 12,Male,25,Delhi,Karnataka,BTech,Commerce,7.52,7.9,Canada,Business Analytics,3610850,No,Instagram,Enrolled,Amit Verma,2025-12-30,2026-03-23,Active,89,Low,67,UK,Merit Scholarship
+ST6013,Dev Patel 13,Male,28,Delhi,Maharashtra,BE,Commerce,8.63,7.5,Australia,Data Science,3662489,Yes,WhatsApp,Enrolled,Priya Sharma,2025-10-20,2025-11-02,Active,53,Low,83,Germany,Need Based
+ST6014,Riya Kapoor 14,Female,25,Mumbai,Karnataka,BTech,Engineering,9.2,6.0,USA,Cyber Security,3132351,No,Instagram,Counseling,Priya Sharma,2025-12-27,2026-01-07,Converted,74,Low,78,Canada,Need Based
+ST6015,Kabir Shah 15,Male,18,Chennai,Maharashtra,BTech,Engineering,8.54,6.0,UK,Business Analytics,1909540,No,Website,Application,Amit Verma,2026-02-26,2026-04-15,Active,73,Low,67,USA,None
+ST6016,Meera Nair 16,Male,29,Chennai,Karnataka,BE,Engineering,6.14,7.7,Canada,Computer Science,1955102,No,WhatsApp,Counseling,Sneha Jain,2025-06-05,2025-08-28,Active,71,Medium,92,Canada,Merit Scholarship
+ST6017,Arjun Mehta 17,Male,25,Pune,Telangana,BCom,Science,6.03,6.6,Australia,Cyber Security,2084964,Yes,Seminar,Documentation,Rohit Gupta,2025-09-27,2025-10-11,Active,61,Medium,70,Germany,None
+ST6018,Arjun Mehta 18,Male,21,Mumbai,Telangana,BE,Commerce,6.29,7.1,Australia,Computer Science,2288680,No,Website,Counseling,Amit Verma,2025-12-26,2026-03-27,Dropped,56,Low,80,USA,Need Based
+ST6019,Aditi Verma 19,Female,26,Pune,Maharashtra,BCom,Engineering,6.57,6.0,USA,Business Analytics,2542264,No,Instagram,Contacted,Rohit Gupta,2026-02-21,2026-04-18,Active,86,Low,57,UK,Merit Scholarship
+ST6020,Riya Kapoor 20,Female,22,Delhi,Delhi,BBA,Commerce,7.61,8.4,USA,MBA,3624695,Yes,Website,Application,Rohit Gupta,2025-04-28,2025-08-11,Active,64,Low,83,Germany,None
+ST6021,Aditi Verma 21,Male,29,Mumbai,Maharashtra,BTech,Science,9.3,8.4,Canada,Business Analytics,3254623,No,WhatsApp,Contacted,Rohit Gupta,2025-10-18,2026-02-06,Converted,92,Medium,50,Australia,None
+ST6022,Arjun Mehta 22,Male,23,Chennai,Karnataka,BTech,Engineering,8.8,6.7,Germany,Computer Science,3632095,No,Website,Application,Priya Sharma,2025-01-28,2025-04-14,Active,99,Low,57,Germany,Need Based
+ST6023,Karan Malhotra 23,Female,19,Hyderabad,Maharashtra,BBA,Engineering,6.25,7.5,Germany,Artificial Intelligence,3716545,Yes,Website,Enrolled,Priya Sharma,2025-02-24,2025-05-30,Active,54,Low,77,UK,Merit Scholarship
+ST6024,Kabir Shah 24,Male,27,Bangalore,Telangana,BE,Science,7.44,5.9,USA,Business Analytics,2383003,Yes,Referral,Documentation,Priya Sharma,2025-04-24,2025-08-18,Active,71,Low,83,Canada,None
+ST6025,Karan Malhotra 25,Female,28,Delhi,Delhi,BCom,Commerce,7.36,8.4,USA,Data Science,2859366,No,Website,Contacted,Sneha Jain,2025-10-05,2025-12-18,Active,84,Low,68,UK,None
+ST6026,Ishita Gupta 26,Male,25,Chennai,Telangana,BBA,Commerce,7.76,8.2,Canada,Artificial Intelligence,3542094,No,Website,Counseling,Rohit Gupta,2026-01-29,2026-03-04,Active,71,Low,51,Germany,None
+ST6027,Ishita Gupta 27,Male,27,Mumbai,Maharashtra,BCom,Commerce,6.82,7.6,UK,MBA,1586582,No,Seminar,Documentation,Amit Verma,2025-04-03,2025-04-16,Converted,56,Low,87,Germany,None
+ST6028,Dev Patel 28,Female,18,Delhi,Delhi,BBA,Commerce,8.06,7.7,USA,MBA,1878217,No,Instagram,Application,Sneha Jain,2026-01-04,2026-04-05,Active,86,Low,53,Australia,None
+ST6029,Riya Kapoor 29,Male,21,Hyderabad,Karnataka,BTech,Science,9.68,6.7,Canada,Artificial Intelligence,3336521,Yes,WhatsApp,Application,Amit Verma,2025-02-13,2025-03-30,Dropped,80,Medium,95,USA,Merit Scholarship
+ST6030,Kabir Shah 30,Female,19,Bangalore,Maharashtra,BCom,Engineering,8.32,6.6,Germany,Data Science,2123596,No,Referral,Visa,Rohit Gupta,2025-12-24,2026-03-28,Active,89,Low,52,Canada,Need Based
+ST6031,Ananya Rao 31,Male,25,Delhi,Maharashtra,BCom,Engineering,6.13,8.3,Australia,Data Science,3191956,Yes,Seminar,Contacted,Amit Verma,2025-09-25,2025-12-22,Active,59,Low,79,USA,Need Based
+ST6032,Meera Nair 32,Male,28,Bangalore,Delhi,BCom,Science,8.06,5.8,Canada,Business Analytics,2640466,Yes,Website,Visa,Amit Verma,2025-03-19,2025-06-23,Active,70,Low,77,Canada,Need Based
+ST6033,Kabir Shah 33,Male,29,Delhi,Telangana,BTech,Science,6.48,6.0,Germany,MBA,2150069,Yes,Seminar,Enrolled,Sneha Jain,2025-04-22,2025-05-10,Active,78,Low,65,Canada,Need Based
+ST6034,Yash Jain 34,Female,30,Pune,Tamil Nadu,BBA,Commerce,8.32,7.3,UK,Cyber Security,2377423,No,Instagram,Visa,Amit Verma,2026-03-30,2026-07-18,Active,65,Low,99,Australia,Need Based
+ST6035,Yash Jain 35,Female,26,Hyderabad,Maharashtra,BBA,Engineering,8.14,8.2,Germany,Data Science,2432113,No,Instagram,Contacted,Rahul Singh,2025-06-05,2025-06-17,Active,65,Low,65,Australia,Need Based
+ST6036,Ishita Gupta 36,Male,26,Mumbai,Delhi,BTech,Engineering,8.77,8.5,Canada,Data Science,3840556,Yes,Instagram,Documentation,Sneha Jain,2026-01-21,2026-04-28,Active,57,Medium,65,USA,None
+ST6037,Karan Malhotra 37,Female,21,Pune,Tamil Nadu,BBA,Engineering,7.29,7.9,Canada,Computer Science,2995019,No,Seminar,Documentation,Rahul Singh,2025-06-27,2025-09-30,Converted,77,Low,58,Germany,Merit Scholarship
+ST6038,Riya Kapoor 38,Female,18,Hyderabad,Telangana,BE,Science,9.08,7.6,USA,Artificial Intelligence,2829611,Yes,WhatsApp,Enrolled,Rohit Gupta,2025-09-26,2025-12-28,Dropped,51,Low,93,UK,Merit Scholarship
+ST6039,Ishita Gupta 39,Male,26,Bangalore,Delhi,BE,Science,7.53,5.6,Germany,Data Science,2854200,Yes,Seminar,Contacted,Sneha Jain,2025-04-11,2025-07-09,Active,90,Low,75,Germany,Need Based
+ST6040,Kabir Shah 40,Female,20,Bangalore,Karnataka,BTech,Engineering,6.4,6.8,USA,Cyber Security,2049824,No,Website,Application,Sneha Jain,2025-03-12,2025-07-07,Active,60,Low,57,UK,Need Based
+ST6041,Arjun Mehta 41,Male,19,Pune,Karnataka,BCom,Science,8.4,5.7,Australia,Cyber Security,2124313,No,Instagram,Application,Rahul Singh,2026-02-11,2026-06-06,Converted,73,Low,96,UK,Merit Scholarship
+ST6042,Meera Nair 42,Male,19,Delhi,Telangana,BBA,Engineering,8.66,7.4,Germany,Business Analytics,3741079,Yes,WhatsApp,Application,Rohit Gupta,2025-06-15,2025-09-16,Converted,92,Low,69,Canada,None
+ST6043,Ishita Gupta 43,Male,21,Bangalore,Telangana,BBA,Commerce,8.65,6.5,Germany,MBA,2594765,No,Referral,Documentation,Rohit Gupta,2026-02-18,2026-06-08,Active,70,Low,50,Australia,Need Based
+ST6044,Arjun Mehta 44,Female,28,Chennai,Delhi,BTech,Engineering,6.88,8.2,UK,Computer Science,2522676,Yes,Seminar,Application,Amit Verma,2025-07-02,2025-08-11,Active,77,Low,77,Germany,None
+ST6045,Kabir Shah 45,Male,29,Mumbai,Delhi,BE,Engineering,8.66,5.7,USA,MBA,2872767,No,WhatsApp,Application,Rahul Singh,2026-03-01,2026-05-29,Converted,65,Low,80,Germany,None
+ST6046,Ananya Rao 46,Female,22,Chennai,Karnataka,BTech,Science,8.54,6.9,Germany,Business Analytics,2809364,Yes,Referral,Application,Rohit Gupta,2026-05-07,2026-05-27,Active,58,Low,52,Germany,None
+ST6047,Karan Malhotra 47,Male,20,Delhi,Tamil Nadu,BE,Science,7.78,6.3,Australia,Artificial Intelligence,2071878,Yes,Instagram,Application,Amit Verma,2026-03-31,2026-04-26,Active,73,Low,73,UK,Merit Scholarship
+ST6048,Kabir Shah 48,Female,22,Pune,Maharashtra,BE,Commerce,7.01,6.4,Australia,Artificial Intelligence,3680006,Yes,Referral,Enrolled,Priya Sharma,2025-04-30,2025-06-16,Active,84,Low,68,Germany,None
+ST6049,Ishita Gupta 49,Female,27,Hyderabad,Delhi,BTech,Commerce,8.45,8.1,Germany,Computer Science,3493984,Yes,Instagram,Counseling,Priya Sharma,2025-12-30,2026-01-12,Active,80,Low,59,Germany,Need Based
+ST6050,Arjun Mehta 50,Male,22,Pune,Maharashtra,BCom,Engineering,9.05,8.1,Germany,Cyber Security,3523855,Yes,Referral,Enrolled,Priya Sharma,2025-10-22,2025-11-06,Dropped,95,Medium,54,Germany,Need Based
+ST6051,Dev Patel 51,Female,20,Mumbai,Maharashtra,BE,Engineering,6.54,7.6,UK,Business Analytics,2800655,Yes,WhatsApp,Visa,Amit Verma,2025-11-09,2026-03-07,Active,97,Low,100,Germany,Merit Scholarship
+ST6052,Karan Malhotra 52,Female,30,Bangalore,Delhi,BE,Science,8.2,6.1,Canada,Cyber Security,1964459,Yes,Instagram,Enrolled,Priya Sharma,2025-05-07,2025-05-27,Active,75,Low,62,UK,None
+ST6053,Ananya Rao 53,Male,28,Mumbai,Telangana,BBA,Science,9.0,6.1,USA,MBA,3844290,No,Seminar,Counseling,Amit Verma,2025-10-26,2025-11-01,Converted,80,Medium,82,UK,Merit Scholarship
+ST6054,Kabir Shah 54,Female,30,Hyderabad,Karnataka,BCom,Commerce,9.3,5.9,USA,MBA,3352416,No,Instagram,Enrolled,Rohit Gupta,2025-11-12,2026-02-26,Converted,88,Low,60,USA,Merit Scholarship
+ST6055,Karan Malhotra 55,Male,30,Bangalore,Tamil Nadu,BTech,Commerce,7.87,5.8,USA,Business Analytics,3132045,No,Referral,Visa,Sneha Jain,2025-10-19,2026-01-30,Active,61,Low,79,USA,None
+ST6056,Ishita Gupta 56,Female,23,Delhi,Delhi,BBA,Science,6.54,5.7,Germany,Artificial Intelligence,3859348,No,Referral,Contacted,Priya Sharma,2025-11-07,2025-11-14,Converted,86,Low,73,Australia,None
+ST6057,Aditi Verma 57,Male,19,Bangalore,Karnataka,BBA,Commerce,6.8,7.6,UK,MBA,2812008,Yes,Seminar,Contacted,Amit Verma,2025-02-21,2025-03-30,Converted,91,Medium,93,Germany,Merit Scholarship
+ST6058,Aditi Verma 58,Female,29,Chennai,Telangana,BE,Science,8.87,6.8,Australia,Computer Science,2539282,Yes,Referral,Counseling,Rohit Gupta,2026-01-30,2026-03-19,Converted,71,Low,93,Australia,Merit Scholarship
+ST6059,Aditi Verma 59,Female,23,Hyderabad,Telangana,BE,Engineering,6.01,8.2,UK,MBA,3897463,Yes,Referral,Enrolled,Amit Verma,2026-04-22,2026-08-15,Dropped,84,Low,51,Australia,Need Based
+ST6060,Yash Jain 60,Male,25,Bangalore,Maharashtra,BBA,Engineering,6.65,5.9,USA,Cyber Security,2840395,Yes,Website,Documentation,Rohit Gupta,2026-03-29,2026-06-08,Active,78,Medium,75,Canada,Need Based
+ST6061,Ananya Rao 61,Male,21,Delhi,Karnataka,BCom,Engineering,9.18,8.4,Canada,Business Analytics,1650425,Yes,Seminar,Documentation,Sneha Jain,2026-03-15,2026-06-12,Active,72,Medium,96,UK,Need Based
+ST6062,Ananya Rao 62,Female,23,Chennai,Tamil Nadu,BE,Science,7.47,5.5,USA,Cyber Security,3198731,Yes,Referral,Counseling,Amit Verma,2025-04-06,2025-08-01,Active,79,Medium,92,USA,Need Based
+ST6063,Meera Nair 63,Male,29,Mumbai,Maharashtra,BCom,Commerce,9.06,7.2,Canada,Computer Science,1823248,No,Seminar,Contacted,Rohit Gupta,2026-01-22,2026-03-06,Active,64,Medium,65,USA,None
+ST6064,Aditi Verma 64,Female,22,Chennai,Tamil Nadu,BTech,Commerce,7.25,6.2,Australia,Cyber Security,2940356,No,Referral,Application,Rahul Singh,2025-01-30,2025-04-07,Dropped,62,Medium,60,UK,Merit Scholarship
+ST6065,Karan Malhotra 65,Female,27,Mumbai,Telangana,BBA,Science,7.31,7.3,Canada,Business Analytics,3974933,Yes,Seminar,Visa,Sneha Jain,2025-10-30,2026-01-03,Active,70,Medium,61,Germany,Merit Scholarship
+ST6066,Aditi Verma 66,Female,30,Pune,Delhi,BBA,Science,9.09,7.6,Australia,Computer Science,2138393,No,WhatsApp,Contacted,Sneha Jain,2026-04-27,2026-06-30,Dropped,97,Low,79,USA,Need Based
+ST6067,Aditi Verma 67,Female,20,Mumbai,Tamil Nadu,BE,Engineering,9.72,6.7,UK,Data Science,3394785,Yes,Website,Enrolled,Sneha Jain,2026-01-01,2026-03-29,Active,60,Low,83,Australia,Merit Scholarship
+ST6068,Kabir Shah 68,Male,24,Chennai,Maharashtra,BTech,Engineering,7.68,7.4,UK,Cyber Security,2299809,Yes,Website,Visa,Rohit Gupta,2025-07-07,2025-10-03,Active,58,Medium,93,Canada,None
+ST6069,Karan Malhotra 69,Male,27,Pune,Maharashtra,BCom,Science,8.85,6.1,USA,Data Science,2492885,Yes,Referral,Application,Sneha Jain,2025-12-05,2026-03-03,Dropped,88,Low,76,USA,None
+ST6070,Dev Patel 70,Female,29,Hyderabad,Maharashtra,BE,Science,8.58,7.6,UK,Data Science,3298016,No,Website,Contacted,Amit Verma,2025-07-10,2025-10-03,Active,61,Medium,83,Australia,Merit Scholarship
+ST6071,Aditi Verma 71,Female,25,Mumbai,Karnataka,BE,Science,6.42,7.4,UK,Cyber Security,3885165,No,WhatsApp,Enrolled,Sneha Jain,2026-03-23,2026-07-17,Converted,95,Medium,57,UK,Merit Scholarship
+ST6072,Aditi Verma 72,Male,25,Pune,Karnataka,BE,Engineering,8.92,7.7,USA,Business Analytics,3131523,No,Referral,Contacted,Amit Verma,2026-03-07,2026-04-11,Active,59,Low,78,Australia,Merit Scholarship
+ST6073,Riya Kapoor 73,Male,23,Mumbai,Karnataka,BE,Science,8.43,6.7,USA,MBA,2835909,No,WhatsApp,Contacted,Priya Sharma,2025-03-14,2025-06-09,Active,58,Low,71,USA,Need Based
+ST6074,Arjun Mehta 74,Male,23,Delhi,Tamil Nadu,BE,Science,7.37,7.3,Canada,Cyber Security,3120820,No,Instagram,Counseling,Sneha Jain,2025-01-29,2025-04-28,Converted,97,Low,97,UK,Merit Scholarship
+ST6075,Aditi Verma 75,Male,22,Delhi,Karnataka,BBA,Commerce,6.09,8.1,UK,Artificial Intelligence,1706029,Yes,Referral,Contacted,Priya Sharma,2026-02-02,2026-05-01,Converted,75,High,94,Canada,Merit Scholarship
+ST6076,Meera Nair 76,Male,21,Bangalore,Maharashtra,BBA,Commerce,6.51,6.5,Australia,Computer Science,2834853,No,WhatsApp,Contacted,Rahul Singh,2026-01-13,2026-04-06,Dropped,98,Low,90,USA,None
+ST6077,Riya Kapoor 77,Female,25,Hyderabad,Karnataka,BE,Engineering,7.72,5.9,Australia,MBA,3246864,No,Referral,Application,Sneha Jain,2026-04-02,2026-04-22,Active,72,High,92,UK,Need Based
+ST6078,Riya Kapoor 78,Male,25,Chennai,Maharashtra,BBA,Engineering,7.99,8.2,USA,Business Analytics,3837708,No,WhatsApp,Contacted,Rahul Singh,2025-04-16,2025-04-23,Active,78,Low,57,Germany,None
+ST6079,Meera Nair 79,Male,26,Hyderabad,Maharashtra,BBA,Science,9.26,8.1,Canada,Business Analytics,1963329,Yes,Instagram,Enrolled,Rahul Singh,2025-10-06,2025-10-14,Dropped,81,Low,87,Canada,Need Based
+ST6080,Meera Nair 80,Female,24,Mumbai,Maharashtra,BBA,Engineering,9.51,8.4,Australia,Data Science,2038151,No,Seminar,Documentation,Rahul Singh,2026-03-14,2026-03-16,Dropped,55,Medium,57,Germany,None
+ST6081,Riya Kapoor 81,Female,23,Chennai,Delhi,BTech,Engineering,7.71,7.6,Australia,Business Analytics,2573648,Yes,WhatsApp,Enrolled,Priya Sharma,2025-07-20,2025-09-20,Active,72,Medium,76,USA,Merit Scholarship
+ST6082,Ishita Gupta 82,Male,22,Mumbai,Delhi,BCom,Engineering,7.09,6.6,Australia,Business Analytics,3781176,Yes,Seminar,Counseling,Sneha Jain,2025-03-04,2025-06-26,Active,69,Medium,90,USA,None
+ST6083,Arjun Mehta 83,Male,29,Hyderabad,Maharashtra,BBA,Engineering,8.02,6.4,USA,Data Science,3809060,Yes,Instagram,Contacted,Sneha Jain,2025-02-02,2025-04-19,Active,63,Low,52,USA,Merit Scholarship
+ST6084,Ananya Rao 84,Female,30,Delhi,Telangana,BBA,Engineering,6.48,6.5,UK,Computer Science,2758774,Yes,WhatsApp,Application,Sneha Jain,2025-01-25,2025-03-31,Active,71,Low,55,Australia,None
+ST6085,Ananya Rao 85,Male,25,Pune,Karnataka,BE,Science,7.6,5.7,Australia,MBA,3312300,No,Instagram,Enrolled,Sneha Jain,2026-03-30,2026-04-08,Active,87,Low,59,Canada,Merit Scholarship
+ST6086,Aditi Verma 86,Female,19,Delhi,Maharashtra,BTech,Engineering,8.92,6.1,UK,Computer Science,2892420,Yes,WhatsApp,Application,Sneha Jain,2025-03-04,2025-03-23,Dropped,67,Medium,87,Canada,Merit Scholarship
+ST6087,Ananya Rao 87,Male,25,Delhi,Delhi,BBA,Science,9.46,8.1,Germany,Artificial Intelligence,2900724,Yes,Website,Counseling,Amit Verma,2026-05-05,2026-08-07,Dropped,92,Medium,75,Germany,None
+ST6088,Meera Nair 88,Male,22,Mumbai,Telangana,BCom,Engineering,6.59,5.7,Canada,Computer Science,1917871,No,Seminar,Visa,Amit Verma,2026-03-11,2026-04-17,Converted,86,Medium,57,USA,Merit Scholarship
+ST6089,Kabir Shah 89,Male,26,Pune,Maharashtra,BE,Commerce,7.93,8.2,Australia,MBA,2029850,No,Referral,Counseling,Rahul Singh,2025-11-17,2026-03-05,Active,67,Medium,100,USA,Need Based
+ST6090,Arjun Mehta 90,Female,22,Delhi,Karnataka,BBA,Science,6.19,5.8,USA,Cyber Security,2806532,Yes,WhatsApp,Application,Sneha Jain,2025-06-13,2025-10-03,Active,94,Medium,81,Canada,Need Based
+ST6091,Yash Jain 91,Male,30,Delhi,Telangana,BCom,Science,8.58,7.4,USA,Computer Science,3867970,No,Website,Contacted,Rahul Singh,2025-12-31,2026-04-30,Dropped,72,Low,75,Australia,Merit Scholarship
+ST6092,Kabir Shah 92,Female,28,Pune,Maharashtra,BTech,Engineering,8.36,7.4,UK,Business Analytics,1792535,No,Instagram,Enrolled,Amit Verma,2026-01-13,2026-04-11,Active,93,Low,86,Germany,Merit Scholarship
+ST6093,Arjun Mehta 93,Male,22,Pune,Delhi,BE,Engineering,6.11,6.8,Germany,MBA,3117559,Yes,Referral,Counseling,Amit Verma,2025-12-12,2026-04-10,Active,99,Low,90,USA,Merit Scholarship
+ST6094,Dev Patel 94,Female,20,Delhi,Telangana,BTech,Engineering,9.3,6.4,Australia,Computer Science,1591596,Yes,Referral,Visa,Rahul Singh,2025-02-27,2025-05-12,Active,85,Low,53,USA,Merit Scholarship
+ST6095,Arjun Mehta 95,Male,24,Hyderabad,Tamil Nadu,BTech,Engineering,8.58,6.0,USA,MBA,1770129,No,Referral,Documentation,Amit Verma,2025-01-19,2025-03-21,Converted,58,Low,70,USA,None
+ST6096,Riya Kapoor 96,Female,22,Pune,Maharashtra,BBA,Science,6.34,7.1,Australia,MBA,3428878,Yes,Instagram,Application,Rahul Singh,2026-04-28,2026-05-11,Active,66,Low,95,UK,Need Based
+ST6097,Kabir Shah 97,Female,30,Pune,Delhi,BCom,Science,7.51,7.1,USA,Business Analytics,3609065,No,Instagram,Contacted,Rohit Gupta,2025-08-20,2025-09-07,Dropped,64,Low,80,Canada,None
+ST6098,Riya Kapoor 98,Female,24,Chennai,Maharashtra,BTech,Science,9.52,5.7,USA,Business Analytics,1926812,No,Seminar,Visa,Rohit Gupta,2025-06-13,2025-08-22,Active,98,Low,95,Australia,None
+ST6099,Aditi Verma 99,Female,26,Mumbai,Karnataka,BE,Engineering,9.16,8.1,Germany,Business Analytics,1755913,Yes,Seminar,Enrolled,Rahul Singh,2026-02-19,2026-05-19,Active,75,Low,58,Australia,Need Based
