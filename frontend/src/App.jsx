@@ -10,11 +10,11 @@ import {
 
 import Layout from './components/Layout/Layout'
 
-import Dashboard from './pages/Dashboard'
-import Students from './pages/Students'
-import Analytics from './pages/Analytics'
-import Counselors from './pages/Counselors'
-import Recommendations from './pages/Recommendations'
+import dashboard from './pages/dashboard'
+import students from './pages/students'
+import analytics from './pages/analytics'
+import counselors from './pages/counselors'
+import recommendations from './pages/recommendations'
 
 export default function App() {
   return (
