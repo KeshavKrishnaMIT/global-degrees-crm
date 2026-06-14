@@ -1,6 +1,6 @@
-# Global Degrees CRM Platform- Summer Internship Project 1
+# Global Degrees CRM Platform - Summer Internship Project 1
 
-A full-stack CRM and student management platform built to streamline international education consulting workflows. The system enables counselors and administrators to manage student applications, monitor conversions, analyze performance metrics, and generate actionable insights through a centralized dashboard.
+A full-stack CRM and student management platform built to streamline international education consulting workflows. The system enables counselors and administrators to manage student applications, monitor conversions, analyze performance metrics, generate actionable insights, and interact with an AI-powered executive copilot through a centralized dashboard.
 
 ## Live Demo
 
@@ -8,9 +8,9 @@ A full-stack CRM and student management platform built to streamline internation
 
 ## Project Overview
 
-Global Degrees CRM was designed to simulate a real-world study abroad consultancy management system. The platform consolidates student records, counselor tracking, application pipelines, analytics, and recommendation workflows into a single interface.
+Global Degrees CRM was designed to simulate a real-world study abroad consultancy management system. The platform consolidates student records, counselor tracking, application pipelines, analytics, recommendation workflows, and AI-assisted decision support into a single interface.
 
-The objective was to build a scalable and professional CRM capable of handling thousands of student records while providing meaningful business intelligence through dashboards and reporting.
+The objective was to build a scalable and professional CRM capable of handling thousands of student records while providing meaningful business intelligence through dashboards, reporting, and conversational AI insights.
 
 ## Key Features
 
@@ -47,6 +47,18 @@ The objective was to build a scalable and professional CRM capable of handling t
 - Lead prioritization support
 - Decision assistance workflows
 
+### AI Executive Copilot
+- LLM-powered conversational assistant integrated into the CRM
+- Natural language querying over live CRM metrics
+- Multi-turn context-aware conversations
+- Executive summaries generated from operational data
+- Funnel bottleneck identification and conversion insights
+- Counselor performance analysis and coaching recommendations
+- Lead source effectiveness and ROI evaluation
+- Destination market intelligence and prioritization support
+- High-risk student identification and follow-up guidance
+- Instant decision support for management teams
+
 ### CSV Integration
 - Bulk student record imports
 - Large dataset processing
@@ -66,6 +78,11 @@ The objective was to build a scalable and professional CRM capable of handling t
 - Supabase
 - PostgreSQL
 
+### Artificial Intelligence
+- Google Gemini API
+- Prompt Engineering
+- Context-Aware Conversational Interfaces
+
 ### Deployment
 - GitHub
 - Vercel
@@ -83,6 +100,9 @@ PostgreSQL Database
        │
        ▼
 Analytics & Reporting Engine
+       │
+       ▼
+AI Executive Copilot (LLM Integration)
 ```
 
 ## Project Structure
@@ -119,6 +139,7 @@ This platform addresses those challenges by providing:
 - Real-time performance monitoring
 - Counselor productivity tracking
 - Data-driven decision support
+- AI-assisted business intelligence
 - Scalable CRM operations
 
 ## Learning Outcomes
@@ -133,16 +154,21 @@ During the development of this project, the following concepts were implemented 
 - Dashboard development
 - Production deployment using Vercel
 - Version control with Git and GitHub
+- LLM integration within production applications
+- Prompt engineering for business intelligence use cases
+- Conversational AI interface development
 
 ## Future Enhancements
 
 - Authentication and role-based access control
-- AI-powered student recommendations
 - Automated email workflows
 - University matching engine
 - Predictive conversion analytics
 - Advanced reporting exports
 - Multi-branch CRM support
+- Voice-enabled CRM assistant
+- Fine-tuned recommendation models
+- Integration with external university APIs
 
 ## Repository
 
