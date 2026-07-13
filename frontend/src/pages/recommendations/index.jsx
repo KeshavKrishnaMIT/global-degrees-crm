@@ -774,13 +774,11 @@ This is your strongest match based on our 6-vector scoring engine:
 • Similar CRM profiles: **${ins.similarStudents.count}** students (conversion rate: **${ins.similarStudents.conversionRate}%**)
 
 **Try asking me:**
-• "Which schools can I target?"
 • "Tell me about ${topRec ? topRec.university.name : 'a specific university'}"
 • "Can I get a scholarship?"
 • "What should I improve in my profile?"
 • "Compare countries for me"
 • "When should I apply?"
-• "What's my best match?"
 • "How do I write my SOP?"`
   }
 
